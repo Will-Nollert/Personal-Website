@@ -1,0 +1,15 @@
+body {
+    font-family: DM Sans ;
+    background-color: #3D5A73;
+}
+
+h3 {
+    text-align: center;
+    color: #F2E6D0;
+
+}
+
+.RoadResults li {
+    margin-bottom: 1em;
+    color: #F2E6D0;
+}
